@@ -1,4 +1,4 @@
-# discord-hacking-soft-v0.1
+# discord-hacking-soft-v1
 This software can be used to modify Discord to illegally obtain batches (permanently), get Nitro for free, change server boosts, etc.
 
 ## Only the desktop version is supported.
